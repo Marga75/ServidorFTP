@@ -9,6 +9,7 @@ body {
     display: block;
     background-color: #6f1384;
     min-height: 100vh; /* Asegura que la altura mínima del body sea 100vh */
+    position: relative; /* Necesario para posicionar el pseudo-elemento */
 }
 
 body::before{
