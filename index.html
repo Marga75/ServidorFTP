@@ -1,31 +1,47 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tienda Hípica</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/x-icon" href="/imgs/favicon.ico">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/x-icon" href="/imgs/favicon.ico" />
+    <!-- Link para una fuente para la letra -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Links para el icono del carrito -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=shopping_cart"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
     <div class="titulo">
-        <h1>Tienda Hípica</h1>
+      <h1>Tienda Hípica</h1>
     </div>
 
-    <table id="productosTabla">
-        <thead>
-            <tr>
-                <th>Nombre</th>
-                <th>Precio</th>
-                <th>Descripción</th>
-                <th>Imágen</th>
-            </tr>
-        </thead>
-        <tbody>
+    <div class="carrito">
+      <button id="btn-carrito">
+        <span class="material-symbols-outlined"> shopping_cart </span>
+      </button>
+      <div class="carrito-popup" id="carrito-popup">
+        <h4>Tu carrito</h4>
+        <ul id="lista-carrito"></ul>
+      </div>
+    </div>
 
-        </tbody>
-    </table>
+    <div class="contenedor" id="contenedor_productos"></div>
+
+    <div id="popup" class="popup">
+      <div id="contenido_popup" class="contenido_popup"></div>
+      <button id="cerrar" class="cerrar">X</button>
+    </div>
 
     <script src="scripts/productos.js"></script>
-</body>
+    <script src="scripts/carrito.js"></script>
+  </body>
 </html>
