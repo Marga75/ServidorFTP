@@ -33,4 +33,173 @@
 			imgs/Cabezada-inglesa-Castecus-1583.webp
 		</imagen>
 	</producto>
+	<producto>
+		<id>
+			003
+		</id>
+		<nombre>
+			Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHID*
+		</nombre>
+		<precio>
+			93€
+		</precio>
+		<descripcion>
+			Mantilla inglesa LeMieux ProSport Close Contact Suede ORCHID para SALTO o USO GENERAL fabricada en tejido de ante supersuave y con protección de cuero de PU para el paso de la cincha.
+			Patillas de fijación elásticas con velcro para fijar a las anillas de la silla. Forro de bambú súper suave para absorber y controlar el sudor debajo de la silla, muy cómodo y seguro, minimizando la fricción.
+			Color: orquídea.
+			Talla: full.
+		</descripcion>
+		<imagen>
+			imgs/Mantilla-inglesa-LeMieux-ProSport-Close-Contact-Suede-ORCHID.webp
+		</imagen>
+	</producto>
+	<producto>
+		<id>
+			004
+		</id>
+		<nombre>
+			Mantilla inglesa LeMieux ProSport Close Contact Suede FIG
+		</nombre>
+		<precio>
+			84€
+		</precio>
+		<descripcion>
+			Mantilla inglesa LeMieux ProSport Close Contact Suede FIG para SALTO o USO GENERAL fabricada en tejido de ante supersuave y con protección de cuero de PU para el paso de la cincha.
+			Patillas de fijación elásticas con velcro para fijar a las anillas de la silla. Forro de bambú súper suave para absorber y controlar el sudor debajo de la silla, muy cómodo y seguro, minimizando la fricción.
+			Color: púrpura.
+			Talla: full.
+		</descripcion>
+		<imagen>
+			imgs/Mantilla-inglesa-LeMieux-ProSport-Close-Contact-Suede-FIG.webp
+		</imagen>
+	</producto>
+	<producto>
+		<id>
+			005
+		</id>
+		<nombre>
+			Silla salto Arena Leather Cavallerire
+		</nombre>
+		<precio>
+			425€
+		</precio>
+		<descripcion>
+			Ya tenemos la Silla de salto ARENA, una de las mejores sillas relación calidad-precio.
+			Fabricada totalmente en piel.
+			Armazón flexible fabricado en fibra, la fibra se caracteriza por su durabilidad y ligereza que proporciona a la silla.
+			Con posibilidad de intercambiar el puente (según la cruz del caballo).
+			Taco interior, para dar la seguridad que necesita el jinete/amazona.
+			Vivo hilo blanco.
+			Medida: 17'5"
+			Color: Negro
+		</descripcion>
+		<imagen>
+			imgs/Silla-salto-Arena-Leather-Cavallerire.webp
+		</imagen>
+	</producto>
+	<producto>
+		<id>
+			006
+		</id>
+		<nombre>
+			Cabezada montar Brillante Charol
+		</nombre>
+		<precio>
+			56.95€
+		</precio>
+		<descripcion>
+			Cabezada de montar fabricada en piel de calidad. Frontalera de brillantes.
+			Cierra bocas de charol para dar un toque especial a tu cabezada.
+			Con muselora.
+			Bocado NO INCLUIDO.
+			Con riendas de lona.
+			Color: Marrón
+			Tallas: COB, FULL
+		</descripcion>
+		<imagen>
+			imgs/Cabezada-montar-Brillante-Charol.webp
+		</imagen>
+	</producto>
+	<producto>
+		<id>
+			007
+		</id>
+		<nombre>
+			Protector Tendón Goma Flex Winner
+		</nombre>
+		<precio>
+			24.95€
+		</precio>
+		<descripcion>
+			Protector de tendón, interior fabricado en neopreno y carcasa exterior de goma.
+			Parte inferior con FLEX TECNOLOGY, para una correcta protección y no dañar al caballo.
+			Color: Negro
+			Talla: COB, FULL
+		</descripcion>
+		<imagen>
+			imgs/Protector-Tendon-Goma-Flex-Winner.webp
+		</imagen>
+	</producto>
+	<producto>
+		<id>
+			008
+		</id>
+		<nombre>
+			Protector Air Salto Gatusos
+		</nombre>
+		<precio>
+			50.95€
+		</precio>
+		<descripcion>
+			Protector profesional de salto, para el tendón.
+			Los protectores Gatusos® están fabricados en EVA GUMFLY, un material revolucionario, único en el sector.
+			Beneficios:
+			- Sistema de ventilación, su innovador diseño evita el sobrecalentamiento de los tendones.
+			- Ultraligero, solo 134gr (unidad)
+			- Lavado y secado instantáneo
+			- Libre de costuras
+			- Antibacteriano
+			- Flexible
+			- Anatómico
+			- Absorbe impactos
+			- Muy duraderos
+			- Sujeción ProMax
+			100% fabricado en España.
+			Se comercializan por pares.
+		</descripcion>
+		<imagen>
+			imgs/Protector-Air-Salto-Gatusos.webp
+		</imagen>
+	</producto>
+	<producto>
+		<id>
+			009
+		</id>
+		<nombre>
+			Protector Air Salto Trasero Gatusos
+		</nombre>
+		<precio>
+			44.95€
+		</precio>
+		<descripcion>
+			Protector profesional para la pata del caballo.
+			Los protectores Gatusos® están fabricados en EVA GUMFLY, un material revolucionario, único en el sector.
+			Beneficios:
+			- Sistema de ventilación, evita sobrecalentamiento.
+			- Ultraligero, solo 87gr (unidad)
+			- Lavado y secado instantáneo
+			- Libre de costuras
+			- Antibacteriano
+			- Flexible
+			- Anatómico
+			- Absorbe impactos
+			- Muy duraderos
+			- Sujeción ProMax
+			100% fabricado en España.
+			Se comercializan por pares.
+		</descripcion>
+		<imagen>
+			imgs/Protector-Air-Salto-Trasero-Gatusos.webp
+		</imagen>
+	</producto>
 </productos>
