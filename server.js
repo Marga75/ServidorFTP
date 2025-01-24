@@ -10,7 +10,7 @@ app.use(express.json());
 
 const FTP_CONFIG = {
     host: "127.0.0.1",
-    user: "User",
+    user: "User1",
     password: "1234",
     secure: true,
     secureOptions: { rejectUnauthorized: false }, // Acepta certificados autofirmados
