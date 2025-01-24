@@ -6,8 +6,8 @@
 		<nombre>
 			Silla salto Lexhis Fluvia
 		</nombre>
-		<precio moneda="EUR">
-			290
+		<precio>
+			290€
 		</precio>
 		<descripcion>
 			Silla inglesa de SALTO Lexhis Fulvia fabricada en cuero sintetico, muy ligera de 5.2kg de peso, con rellenos en baste, asiento y rodilleras extremadamente confortable, y armadura muy ligera y gran capacidad de resistencia. Color: marrón. Tallas: 16", 17", 17.5".
@@ -23,8 +23,8 @@
 		<nombre>
 			Cabezada inglesa Castecus 1583
 		</nombre>
-		<precio moneda="EUR">
-			71.30
+		<precio>
+			71.30€
 		</precio>
 		<descripcion>
 			Cabezada inglesa Castecus 1583 fabricada en cuero completa con riendas de lona con topes y terminaciones de cuero. Frontalera recta alomada y acolchada. Muserola con cierrabocas acolchada y alomada. Hebillaje de acero inoxidable. Colores: avellana, marrón, negro. Tallas: cob, full.
