@@ -65,6 +65,32 @@ h1 {
 
 .carrito-popup{
     display: none; /* Ocultamos el pop-up inicialmente */
+    position: relative;
+    top: 10px; /* Ajusta para que quede justo debajo del botón */
+    background-color: rgb(229, 153, 242);
+    border: 1px solid #504a4a;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+}
+
+.carrito-popup h4{
+    padding: 10px;
+    background-color: #6f1384;
+    border-bottom: 1px solid #ddd;
+}
+
+.carrito-popup ul {
+    list-style: none;
+    padding: 10px;
+}
+
+.carrito-popup ul li {
+    margin-bottom: 10px;
+}
+
+.carrito-popup ul li span {
+    font-weight: bold;
 }
 
 .contenedor {
@@ -163,3 +189,4 @@ h1 {
     color: white;
     border-color: white;
 }
+
