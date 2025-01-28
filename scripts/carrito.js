@@ -29,10 +29,13 @@ function actualizarCarrito() {
   carrito.forEach((producto, index) => {
     const li = document.createElement("li");
     li.innerHTML = `
-        <div style="display: flex; align-items: center; justify-content: space-between;">
-          <img src="${producto.imagen}" alt="${producto.nombre}" style="width: 50px; height: 50px; margin-right: 10px;">
-          <span>${producto.nombre} - €${producto.precio} x ${producto.cantidad}</span>
-          <button onclick="eliminarProducto(${index})" style="background-color: red; color: white; border: none; padding: 5px;">X</button>
+        <div class="carrito-item">
+          <img src="${producto.imagen}" alt="${producto.nombre}">
+          <div class="item-info">
+            <p>${producto.nombre}</p>
+            <p>${producto.precio}€ x ${producto.cantidad}</p>
+          </div>
+          <button onclick="eliminarProducto(${index})" class="borrar-item">X</button>
         </div>
         `;
         listaCarrito.appendChild(li);
