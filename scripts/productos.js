@@ -62,7 +62,8 @@ function mostrarPopUp(id, nombre, imagen, descripcion, precio) {
       imagen: añadirBoton.getAttribute("data-imagen"),
       cantidad: 1,
     };
-    console.log("Añadiendo al carrito:", producto);
+    
+    agregarProducto(producto);
 
     //Cerrar el pop-up después de añadir
     popup.style.display = "none";
