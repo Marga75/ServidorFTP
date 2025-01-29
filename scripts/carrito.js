@@ -35,7 +35,7 @@ function actualizarCarrito() {
             <p>${producto.nombre}</p>
             <p>${producto.precio}€ x ${producto.cantidad}</p>
           </div>
-          <button onclick="eliminarProducto(${index})" class="borrar-item">X</button>
+          <button onclick="eliminarProducto(${index})">X</button>
         </div>
         `;
         listaCarrito.appendChild(li);
